@@ -21,8 +21,8 @@ float: left;
 li {
 float: right;
 padding: 5px;
-margin-right: 5px;
-font-family: tahoma;
+margin-right: 3px;
+font-family: calibri;
 }
 
 li a {
@@ -116,7 +116,7 @@ color: cadetblue;
 }
 
 p {
-font-size: 17px;
+font-size: 15px;
 line-height: 1.5em;
 }
 
